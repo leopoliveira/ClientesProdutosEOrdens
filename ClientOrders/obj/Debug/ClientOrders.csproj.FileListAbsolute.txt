@@ -1,0 +1,8 @@
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\ClientOrders\ClientOrders\bin\Debug\ClientOrders.exe.config
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\ClientOrders\ClientOrders\bin\Debug\ClientOrders.exe
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\ClientOrders\ClientOrders\bin\Debug\ClientOrders.pdb
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\ClientOrders\ClientOrders\obj\Debug\ClientOrders.csproj.AssemblyReference.cache
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\ClientOrders\ClientOrders\obj\Debug\ClientOrders.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\ClientOrders\ClientOrders\obj\Debug\ClientOrders.csproj.CoreCompileInputs.cache
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\ClientOrders\ClientOrders\obj\Debug\ClientOrders.exe
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\ClientOrders\ClientOrders\obj\Debug\ClientOrders.pdb
